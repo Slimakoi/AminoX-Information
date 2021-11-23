@@ -1,0 +1,27 @@
+{
+    "application":{
+       "working": true,
+       "versionName": "2.6",
+       "versionCode": "2611",
+       "download": "https://discord.gg/68wchgsKdX"
+    },
+    "announcement":{
+       "hasData": false,
+       "cancelable": true,
+       "title": "Important Notice - Must Read",
+       "text": "Join the discord server to download the latest version!\nhttps://discord.gg/68wchgsKdX\n\nAminoX is completely FREE available on my discord server, if you paid for this you've just been SCAMMED!"
+    },
+    "amino":{
+       "deviceId": "229760DED010A82DEE1F05311837D13E290A56DF06746B06771E8B5E6B90A93FDA86AA8D783E1C4EE7",
+       "userAgent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G965N Build/star2ltexx-user 5.1.; com.narvii.amino.master/3.4.33505)"
+    },
+    "blacklisted":[
+       "NaN"
+    ],
+    "blacklistedIds":[
+       "NaN"
+    ],
+    "whitelisted":[
+       "NaN"
+    ]
+ }
