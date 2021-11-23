@@ -16,10 +16,10 @@
        "userAgent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G965N Build/star2ltexx-user 5.1.; com.narvii.amino.master/3.4.33505)"
     },
     "blacklisted":[
-       "NaN"
+       "D7B5447CD89EBD45AAF8E3102464C8C59ACAE6F8198B3D85778D71278F945E63"
     ],
     "blacklistedIds":[
-       "NaN"
+       "D7B5447CD89EBD45AAF8E3102464C8C59ACAE6F8198B3D85778D71278F945E63"
     ],
     "whitelisted":[
        "NaN"
