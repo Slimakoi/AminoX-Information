@@ -1,27 +1,25 @@
 {
-    "application":{
-       "working": true,
-       "versionName": "2.6",
-       "versionCode": "2612",
-       "download": "https://discord.gg/68wchgsKdX"
-    },
-    "announcement":{
-       "hasData": false,
-       "cancelable": true,
-       "title": "Important Notice - Must Read",
-       "text": "Join the discord server to download the latest version!\nhttps://discord.gg/68wchgsKdX\n\nAminoX is completely FREE available on my discord server, if you paid for this you've just been SCAMMED!"
-    },
-    "amino":{
-       "deviceId": "229760DED010A82DEE1F05311837D13E290A56DF06746B06771E8B5E6B90A93FDA86AA8D783E1C4EE7",
-       "userAgent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G965N Build/star2ltexx-user 5.1.; com.narvii.amino.master/3.4.33505)"
-    },
-    "blacklisted":[
-       "D7B5447CD89EBD45AAF8E3102464C8C59ACAE6F8198B3D85778D71278F945E63"
-    ],
-    "blacklistedIds":[
-       "D7B5447CD89EBD45AAF8E3102464C8C59ACAE6F8198B3D85778D71278F945E63"
-    ],
-    "whitelisted":[
-       "NaN"
-    ]
+   "application": {
+      "working": true,
+      "download": "https://discord.gg/68wchgsKdX"
+   },
+   "announcement": {
+      "hasData": false,
+      "cancelable": true,
+      "title": "Important Notice - Must Read",
+      "text": "Join the discord server to download the latest version!\nhttps://discord.gg/68wchgsKdX\n\nAminoX is completely FREE available on my discord server, if you paid for this you've just been SCAMMED!"
+   },
+   "amino": {
+      "deviceId": "229760DED010A82DEE1F05311837D13E290A56DF06746B06771E8B5E6B90A93FDA86AA8D783E1C4EE7",
+      "userAgent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G965N Build/star2ltexx-user 5.1.; com.narvii.amino.master/3.4.33505)"
+   },
+   "blacklisted": [
+      "D7B5447CD89EBD45AAF8E3102464C8C59ACAE6F8198B3D85778D71278F945E63"
+   ],
+   "blacklistedIds": [
+      "D7B5447CD89EBD45AAF8E3102464C8C59ACAE6F8198B3D85778D71278F945E63"
+   ],
+   "whitelisted": [
+      "NaN"
+   ]
  }
