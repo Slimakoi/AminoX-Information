@@ -1,9 +1,5 @@
 {
-    "latestVersion": "2.7",
-    "latestVersionCode": 2703,
-    "url": "https://github.com/Slimakoi/AminoX-Information/releases",
-    "releaseNotes": [
-      "- Fixed titles not showing",
-      "- Bug fixes"
-    ]
-  }
+	"latestVersion": "2.8",
+	"latestVersionCode": 2801,
+	"url": "https://github.com/Slimakoi/AminoX-Information/releases"
+}
