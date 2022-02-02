@@ -1,13 +1,13 @@
 {
    "application": {
-      "working": true,
+      "working": false,
       "download": "https://github.com/Slimakoi/AminoX-Information/releases"
    },
    "announcement": {
-      "hasData": false,
-      "cancelable": true,
-      "title": "Important Notice - Must Read",
-      "text": "Join the discord server to download the latest version!\nhttps://discord.gg/68wchgsKdX\n\nAminoX is completely FREE available on my discord server, if you paid for this you've just been SCAMMED!"
+      "hasData": true,
+      "cancelable": false,
+      "title": "PLEASE READ",
+      "text": "As of now, AminoX is now DISCONTINUED! Please please please don't DM me, Slimakoi, asking to bring it back, thanks!"
    },
    "amino": {
       "deviceId": "229760DED010A82DEE1F05311837D13E290A56DF06746B06771E8B5E6B90A93FDA86AA8D783E1C4EE7",
